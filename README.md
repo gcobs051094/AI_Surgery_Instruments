@@ -10,8 +10,8 @@
 
 
 ## 自建資料庫
-[手術器械_Segmentation_特定資料+Ori ](https://universe.roboflow.com/doccamsurgerytool/-_segmentation_-ori)
-[手術器械_DSLR_Segmentation](https://universe.roboflow.com/doccamsurgerytool/-_dslr_segmentation)
+1. [手術器械_Segmentation_特定資料+Ori ](https://universe.roboflow.com/doccamsurgerytool/-_segmentation_-ori)
+2. [手術器械_DSLR_Segmentation](https://universe.roboflow.com/doccamsurgerytool/-_dslr_segmentation)
 
 
 ## 問題
